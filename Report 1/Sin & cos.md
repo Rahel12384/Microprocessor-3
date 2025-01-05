@@ -54,10 +54,9 @@ for (float i= 0 ; i < 360.00 ; i++)
 
 }
 
- 
-##  اجرا ازمایش:
+ ## خروجی آزمایش:
+![alt text](https://github.com/Rahel12384/Microprocessor-3/blob/main/Report%201/4_5814513282077168430.gif)
 
-![توضیح تصویر](https://github.com/Rahel12384/Microprocessor-3/blob/main/Report%201/4_5814513282077168430.gif)
  
   
 ## نتیجه گیری:
