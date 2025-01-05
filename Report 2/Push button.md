@@ -74,7 +74,7 @@ digitalWrite(led , LOW);
 
 
 ## خروجی آزمایش
-![توضیح تصویر](https://github.com/Rahel12384/Microprocessor-3/blob/main/Report%202/VID_20241028_070919_628.gif)
+![alt text](https://github.com/Rahel12384/Microprocessor-3/blob/main/Report%202/VID_20241028_070919_628.gif)
 
 
 ## روش صحیح گذاشتن push button 
