@@ -75,13 +75,14 @@ digitalWrite(led , LOW);
 ![توضیح تصویر](https://github.com/Rahel12384/Microprocessor-3/blob/main/Report%202/4.jpg)
 
 
+## روش صحیح گذاشتن push button 
+![توضیح تصویر](https://github.com/Rahel12384/Microprocessor-3/blob/main/Report%202/IMG_20241014_103640.jpg)
+
+
 ## خروجی آزمایش
 ![alt text](https://github.com/Rahel12384/Microprocessor-3/blob/main/Report%202/VID_20241028_070919_628.gif)
 
 
-## روش صحیح گذاشتن push button 
-![توضیح تصویر](https://github.com/Rahel12384/Microprocessor-3/blob/main/Report%202/IMG_20241014_103640.jpg)
- 
-  
+
 ## نتیجه گیری: 
 در صورت فشردن دکمه ، LED روشن میشود و در صورت فشار ندادن خاموش میشود
