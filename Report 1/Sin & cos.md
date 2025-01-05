@@ -55,9 +55,9 @@ for (float i= 0 ; i < 360.00 ; i++)
 }
 
  
-## تصویر ازمایش:
+##  اجرا ازمایش:
 
-![توضیح تصویر](https://github.com/Rahel12384/Microprocessor-3/blob/main/Report%201/IMG_20241014_085415.jpg)
+![توضیح تصویر]()
  
   
 ## نتیجه گیری:
