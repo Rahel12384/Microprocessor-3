@@ -83,6 +83,5 @@ digitalWrite(led , LOW);
 ![alt text](https://github.com/Rahel12384/Microprocessor-3/blob/main/Report%202/VID_20241028_070919_628.gif)
 
 
-
 ## نتیجه گیری: 
 در صورت فشردن دکمه ، LED روشن میشود و در صورت فشار ندادن خاموش میشود
